@@ -1,0 +1,30 @@
+_repo: Good-For-Evil-b-or-Rose-Cottage_70977
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Leslie, Madeline
+    aliases:
+    - Aunt Hattie
+    - Baker, Harriette Newell Woods
+    - Hattie, Aunt
+    birthdate: 1815
+    deathdate: 1893
+    gutenberg_agent_id: '31136'
+    url: http://www.gutenberg.org/2009/agents/31136
+    wikipedia: https://en.wikipedia.org/wiki/Harriette_Newell_Woods_Baker
+description: ''
+gutenberg_issued: '2023-06-14'
+identifiers:
+  gutenberg: '70977'
+language: en
+pgterms:marc905: 20230612142830leslie
+pgterms:marc906: '1868'
+pgterms:marc907: US
+publication_note: '  $aUnited States :$bHenry A. Young & Company, $c1868.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Good For Evil : $b or Rose Cottage'
+url: http://www.gutenberg.org/ebooks/70977
